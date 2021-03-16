@@ -1,7 +1,0 @@
-#For the table LIBRARY MASTER
-
-#For column LIBRARY_SHORT_NM
-LIBRARY_MASTER.LIBRARY_SM1.1=CSB\uc758 Information Map \ub77c\uc774\ube0c\ub7ec\ub9ac
-
-#For column LIBRARY_DESC
-LIBRARY_MASTER.LIBRARY_DS1.1=CSB Information Map\uc758 \ub77c\uc774\ube0c\ub7ec\ub9ac

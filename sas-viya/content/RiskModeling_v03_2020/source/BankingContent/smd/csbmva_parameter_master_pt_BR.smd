@@ -1,7 +1,0 @@
-#Toolkit: CCS_smd
-#For table PARAMETER_MASTER
-
-#For column PARAMETER_DESC
-PARAMETER_MASTER.PARAMETER_DS2.1=Este par\u00e2metro \u00e9 utilizado para decidir se uma vers\u00e3o de um relat\u00f3rio de especifica\u00e7\u00f5es de modelo deve ser gerada automaticamente ap\u00f3s a execu\u00e7\u00e3o bem-sucedida de cada campanha de sondagem;
-PARAMETER_MASTER.PARAMETER_DS4.1=Este par\u00e2metro indica o n\u00famero de meses/dias a serem considerados no passado a partir da data de compila\u00e7\u00e3o da ABT para a captura de inadimpl\u00eancias. Ele \u00e9 usado na macro bankfdn_create_event_data durante a compila\u00e7\u00e3o da ABT de modelagem de LGD;
-PARAMETER_MASTER.PARAMETER_DS5.1=Este par\u00e2metro indica o n\u00famero de meses/dias a serem considerados no futuro a partir da data de compila\u00e7\u00e3o da ABT para a captura de inadimpl\u00eancias. Ele \u00e9 usado na macro bankfdn_create_event_data durante a compila\u00e7\u00e3o da ABT de sondagem de LGD, simula\u00e7\u00e3o, escoragem e c\u00e1lculo do valor real;

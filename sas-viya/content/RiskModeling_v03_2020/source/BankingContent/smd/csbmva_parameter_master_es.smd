@@ -1,7 +1,0 @@
-#Toolkit: CCS_smd
-#For table PARAMETER_MASTER
-
-#For column PARAMETER_DESC
-PARAMETER_MASTER.PARAMETER_DS2.1=Este par\u00e1metro se usa para decidir si debe generarse autom\u00e1ticamente una versi\u00f3n del informe de especificaci\u00f3n del modelo despu\u00e9s de una ejecuci\u00f3n exitosa de agrupamiento;
-PARAMETER_MASTER.PARAMETER_DS4.1=Este par\u00e1metro denota el n\u00famero de meses/d\u00edas que se deben tener en cuenta en el pasado desde la fecha de generaci\u00f3n de ABT para capturar incumplimientos. Se utiliza en la macro bankfdn_create_event_data durante la construcci\u00f3n de ATB de modelizaci\u00f3n de severidad;
-PARAMETER_MASTER.PARAMETER_DS5.1=Este par\u00e1metro denota el n\u00famero de meses/d\u00edas que se deben tener en cuenta por anticipado desde la fecha de generaci\u00f3n de ABT para capturar incumplimientos. Se utiliza en la macro bankfdn_create_event_data durante la construcci\u00f3n de ATB de modelizaci\u00f3n de severidad; el proceso de backtesting, puntuaci\u00f3n o c\u00e1lculo de valor real;

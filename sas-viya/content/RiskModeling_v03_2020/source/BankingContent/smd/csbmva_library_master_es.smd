@@ -1,8 +1,0 @@
-#Toolkit: CCS_smd
-#For the table LIBRARY MASTER
-
-#For column LIBRARY_SHORT_NM
-LIBRARY_MASTER.LIBRARY_SM1.1=Librer\u00eda de mapa de informaci\u00f3n para CSB
-
-#For column LIBRARY_DESC
-LIBRARY_MASTER.LIBRARY_DS1.1=Librer\u00eda para mapa de informaci\u00f3n de CSB

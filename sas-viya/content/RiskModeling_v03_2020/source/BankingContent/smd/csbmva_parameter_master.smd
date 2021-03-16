@@ -1,6 +1,0 @@
-#For table PARAMETER_MASTER
-
-#For column PARAMETER_DESC
-PARAMETER_MASTER.PARAMETER_DS2.1=This parameter is used to decide whether a version of model specification report should be automatically generated after successful execution of every pooling run;
-PARAMETER_MASTER.PARAMETER_DS4.1=This parameter denotes the number of months/days to be considered in the past from the abt build date for capturing defaults. Its gets used in bankfdn_create_event_data macro during LGD modeling ABT build;
-PARAMETER_MASTER.PARAMETER_DS5.1=This parameter denotes the number of months/days to be considered ahead from the abt build date for capturing defaults. Its gets used in bankfdn_create_event_data macro during LGD Pooling, Back Testing, Scoring, Actual Value Calc ABT build;

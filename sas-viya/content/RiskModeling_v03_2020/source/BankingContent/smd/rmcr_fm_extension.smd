@@ -1,9 +1,0 @@
-#for RMCR_FM_EXTESION SOLUTION CONFIG FM_EXTENSION
-
-RMCR_FM_EXTESION.SOL_CONFIG_SM1.1=%1zError in getting the target table database
-RMCR_FM_EXTESION.SOL_CONFIG_SM2.1=%1zError in getting the work database name
-RMCR_FM_EXTESION.SOL_CONFIG_SM2.1=%3zCreating Cross Reference Table
-RMCR_FM_EXTESION.SOL_CONFIG_SM2.1=%3zThe load time for PROCESSED_DTTM is "%s"
-
-
-

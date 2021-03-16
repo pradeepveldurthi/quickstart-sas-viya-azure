@@ -1,6 +1,0 @@
-#For config wrapper
-RMCR_COMN_CONFIG.CR_DONE_NOTE=%3zCR \u8a2d\u5b9a\u5df2\u5b8c\u6210\uff0c\u4e0d\u6703\u518d\u6b21\u57f7\u884c\u3002
-RMCR_COMN_CONFIG.FILE_NOT_FOUND_ERROR=%1Z\u6a94\u6848\u300c%#1s\u300d\u4e0d\u5728\u8def\u5f91\u300c%#2s\u300d\u4e0a\u3002\u8acb\u78ba\u4fdd CR \u6210\u529f\u57f7\u884c\u3002
-
-#For initialialize CR wrapper
-RMCR_COMN_INIT.FILE_NOT_FOUND_ERROR=%1Z\u6a94\u6848\u300c%#1s\u300d\u4e0d\u5728\u8def\u5f91\u300c%#2s\u300d\u4e0a\u3002\u8acb\u78ba\u4fdd CR \u6210\u529f\u57f7\u884c\u3002

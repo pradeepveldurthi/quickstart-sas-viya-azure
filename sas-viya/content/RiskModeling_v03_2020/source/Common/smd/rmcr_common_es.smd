@@ -1,7 +1,0 @@
-#Toolkit: CCS_smd
-#For config wrapper
-RMCR_COMN_CONFIG.CR_DONE_NOTE=%3zThe CR configuration is already done. It will not execute again.
-RMCR_COMN_CONFIG.FILE_NOT_FOUND_ERROR=%1ZTEl archivo "%#1s" no est\u00e1 disponible en la ruta "%#2s". Compruebe la ejecuci\u00f3n satisfactoria de CR.
-
-#For initialialize CR wrapper
-RMCR_COMN_INIT.FILE_NOT_FOUND_ERROR=%1ZTEl archivo "%#1s" no est\u00e1 disponible en la ruta "%#2s". Compruebe la ejecuci\u00f3n satisfactoria de CR.
